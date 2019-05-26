@@ -14,11 +14,11 @@ A java class that calculate for one number n the sum of that prime nimbers p<n t
 
 This class contents four methodes:
 
-## substringPos - methode 
+## substringPos
 
 Searches for one string 'needle' inside another string 'haystack' and returns the first possible start position. If 'needle' is not found -1 is returned
 
-## countSubstring - methode
+## countSubstring
 
 Calculates how many times is there 'needle' in the 'haystack' appears. For example, substring 'aa' appears inside strin 'aaaa' 3 times.
 
@@ -31,7 +31,15 @@ For example:
 – "a(xx)(" not correct 
 – "a)xx()(" not correct
 
+## matches
 
-# Search_engine
+Checks if a String 'str' which consisted of letters (a-z and A-Z), passes to a pattren 'pattern'. A pattern along with letters can have a special constructs:
+
+1. '.' mathces with any letter
+2. after a letter or the dot one can give a quntity in the {}. 
+For example:
+- The Pattern "P.{2}ngui{1}." passes for instance to the String "Pijnguin".
+– The Pattern "Ha{10}..o" passes for instance to the Strin "Haaaaaaaaaawko", but to "Haaawko".
+
 
 
