@@ -3,7 +3,7 @@
 
 # TUM_LearnJava_ExSheet3
 
-Prime numbers calculator. Letter case changing.
+Prime numbers calculator. Working with strings.
 
 # Primverquerung
 
