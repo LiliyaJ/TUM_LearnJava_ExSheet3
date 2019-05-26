@@ -1,10 +1,9 @@
 * [TUM_LearnJava_ExSheet3](#TUM_LearnJava_ExSheet3)
 * [Primverquerung](#Primverquerung)
-* [Search_engine](#Search_engine)
 
 # TUM_LearnJava_ExSheet3
 
-Prime numbers calculator. Letter case changing. Search engine building (part)
+Prime numbers calculator. Letter case changing.
 
 # Primverquerung
 
